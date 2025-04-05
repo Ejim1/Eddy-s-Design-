@@ -1,1 +1,65 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eddy's Design</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        section {
+            padding: 40px 20px;
+        }
+        .btn {
+            display: inline-block;
+            margin: 20px;
+            padding: 15px 25px;
+            font-size: 18px;
+            color: white;
+            background-color: #333;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background-color: #555;
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            padding: 10px;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        Eddy's Design
+    </header>
+
+    <section>
+        <h2>Creative Design, Printing & Branding Solutions</h2>
+        <p>We bring your ideas to life with professional designs, high-quality printing, and expert branding.</p>
+        <a href="mailto:contact@eddysdesign.com" class="btn">Contact Us</a>
+    </section>
+
+    <footer>
+        &copy; 2025 Eddy's Design. All rights reserved.
+    </footer>
+
+</body>
+</html>
